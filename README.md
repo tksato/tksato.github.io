@@ -48,9 +48,10 @@
     - 自動化やツールなど
     - AWS連携
 - terraform
+  - 機能
     - オンライン商談サービス開発,保守
 ## Cloud
-- AWS: 5年
+- AWS: 5年以上
   - ECS,Fargate, EC2, Lambda, ALB, Route53, CodeBuild, CodePipeline, SQS,SNS,S3,RDS(Aurora MySQL), DynamoDB, ElastiCache, EventBridge, Athena, CloudTrail  
  ## Database
 - Oracle: 5年以上
