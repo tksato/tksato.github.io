@@ -23,7 +23,7 @@
   - 機能
     - スマートフォン向けゲーム開発 API
     - スマートフォン向けゲーム開発 ツール
-    - オンライン商談サービス・同期処理
+    - オンライン商談サービス開発,保守(リアルタイム同期処理)
     - 自動化やツールなど
     - AWS連携
 - PHP: 2年
@@ -48,9 +48,10 @@
     - 自動化やツールなど
     - AWS連携
 - terraform
+    - オンライン商談サービス開発,保守
 ## Cloud
 - AWS: 5年
-  - ECS,Fargate, EC2, Lambda, ALB, Route53, CodeBuild, CodePipeline, SQS,SNS,S3,RDS(Aurora MySQL), DynamoDB, ElastiCache, EventBridge, Athena, CloudTrail
+  - ECS,Fargate, EC2, Lambda, ALB, Route53, CodeBuild, CodePipeline, SQS,SNS,S3,RDS(Aurora MySQL), DynamoDB, ElastiCache, EventBridge, Athena, CloudTrail  
  ## Database
 - Oracle: 5年以上
 - MySQL: 5年以上
