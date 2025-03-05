@@ -47,17 +47,20 @@
     - ツール作成
     - 自動化やツールなど
     - AWS連携
-- terraform
+- terraform：3年以上
   - 機能
     - オンライン商談サービス開発,保守
+      - OIDCロール(GitHub Actions,Terraform Cloud)
+      - CICD標準化
+      - lambdaと連携各種自動化
 ## Cloud
 - AWS: 5年以上
-  - ECS,Fargate, EC2, Lambda, ALB, Route53, CodeBuild, CodePipeline, SQS,SNS,S3,RDS(Aurora MySQL), DynamoDB, ElastiCache, EventBridge, Athena, CloudTrail  
+  - ECS,Fargate, EC2, Lambda, ALB, Route53, CodeBuild, CodePipeline, SQS,SNS,S3,RDS(Aurora MySQL),IAM, DynamoDB, ElastiCache, EventBridge, Athena, CloudTrail, CloudWatch etc 
  ## Database
 - Oracle: 5年以上
 - MySQL: 5年以上
 - MS SQL Server: 5年以上
 - Redis: 5年以上
-- Memdached: 3年
+- Memdached: 3年以上
 
   
